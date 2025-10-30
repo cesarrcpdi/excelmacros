@@ -1,0 +1,10 @@
+{
+    "name": "Drawings",
+    "consoles": [
+        {
+            "name": "BLOWMOLDERS",
+            "folder": "BlowMolders",
+            "core": "mgba"
+        }
+    ]
+}
