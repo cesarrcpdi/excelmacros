@@ -1,6 +1,14 @@
 {
     "games": [
         {
+            "title": "Graham",
+            "file": "Graham.gba"
+        },
+        {
+            "title": "Index",
+            "file": "index.json"
+        },
+        {
             "title": "Ur100-10",
             "file": "UR100-10.gba"
         }
